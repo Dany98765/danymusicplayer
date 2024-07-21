@@ -1,0 +1,15 @@
+{
+    "short_name": "Weather App",
+    "name": "Weather App PWA",
+    "icons": [
+        {
+            "src": "https://b1410584.smushcdn.com/1410584/wp-content/uploads/2021/07/img-blog-pwa-jul-21-mitrais.jpeg?lossy=0&strip=1&webp=1",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
