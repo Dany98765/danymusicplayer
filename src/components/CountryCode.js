@@ -14,7 +14,7 @@
 //   const options = {
 //     method: 'GET',
 //     headers: {
-//       'X-RapidAPI-Key': 'eee5adfe58mshe48de5bf5ea83abp16240ejsn269106eacbb4',
+//       'X-RapidAPI-Key': '## My API Key ###',
 //       'X-RapidAPI-Host': 'shazam-core7.p.rapidapi.com'
 //     }
 //   };
